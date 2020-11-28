@@ -14,7 +14,7 @@ Later, clone this repo.
 Then, start dvrk with this command:
 
 ```
-roslaunch dvrk_robot dvrk_arm_rviz.launch arm:=PSM1 config:=/home/luca/catkin_ws/src/cisst-saw/sawIntuitiveResearchKit/share/console-PSM1_KIN_SIMULATED.json
+roslaunch dvrk_robot dvrk_arm_rviz.launch arm:=PSM1 config:=/home/YOUR-USER/catkin_ws/src/cisst-saw/sawIntuitiveResearchKit/share/console-PSM1_KIN_SIMULATED.json
 ```
 
 
