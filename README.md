@@ -8,11 +8,15 @@ This robotics project about the PSM arm of the dVRK interfaces with the API of t
 To run the script, first download and install the dVRK tool from [here](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki/CatkinBuild) and then from [here](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki/Kinematics-Simulation)
 
 Later, clone this repo.
+
+
+
 Then, start dvrk with this command:
 
 ```
 roslaunch dvrk_robot dvrk_arm_rviz.launch arm:=PSM1 config:=/home/luca/catkin_ws/src/cisst-saw/sawIntuitiveResearchKit/share/console-PSM1_KIN_SIMULATED.json
 ```
+
 
 Then, in another terminal, run the script using python
 
