@@ -18,11 +18,12 @@ roslaunch dvrk_robot dvrk_arm_rviz.launch arm:=PSM1 config:=/home/luca/catkin_ws
 ```
 
 
-Then, in another terminal, run the script using python
+Then, in another terminal, run the script ```menu_dvrk_psm.py``` using python
+
 
 
 ## But does this script really work?
 
 Yes, you can see it in action in this youtube video:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/V8fZ8WUCJoM/0.jpg)](https://www.youtube.com/watch?v=V8fZ8WUCJoM)
+[![YOUTUBE VIDEO DEMONSTRATION](https://img.youtube.com/vi/V8fZ8WUCJoM/0.jpg)](https://www.youtube.com/watch?v=V8fZ8WUCJoM)
